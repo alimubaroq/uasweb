@@ -3,13 +3,13 @@
 ## 👤 Profil Pengembang
 | Atribut | Keterangan |
 |---------|------------|
-| Nama | Faiz Maulana |
-| NIM | 312310469 |
+| Nama | Ali Mubaroq |
+| NIM | 312310452 |
 | Kelas | TI.23.A.5 |
 | Mata Kuliah | Pemrograman Website |
 
 ## 📝 Deskripsi Project
-Project website Kuliner Nusantara merupakan implementasi dari mata kuliah Pemrograman Web 1. Website ini dirancang untuk mendokumentasikan dan memperkenalkan kekayaan kuliner tradisional Indonesia dengan tampilan modern yang terinspirasi dari Spotify. Dibangun menggunakan HTML, CSS, JavaScript, PHP, dan MySQL.
+Project website Kuliner Nusantara merupakan implementasi dari mata kuliah Pemrograman Web 1. Website ini dirancang untuk mendokumentasikan dan memperkenalkan kekayaan kuliner tradisional Indonesia dengan tampilan modern yang terinspirasi dari Canva. Dibangun menggunakan HTML, CSS, JavaScript, PHP, dan MySQL.
 
 ## 🖥️ Tampilan Website
 
@@ -51,7 +51,7 @@ Project website Kuliner Nusantara merupakan implementasi dari mata kuliah Pemrog
 
 ### 4. Form Management
 #### Form Tambah Makanan/Minuman
-![Add Form](images/tampilan/addmakanan.png)
+![Add Form](images/tampilan/makananadd.png)
 - Form input dengan fields:
   - Nama Makanan/Minuman
   - Daerah Asal
@@ -60,7 +60,7 @@ Project website Kuliner Nusantara merupakan implementasi dari mata kuliah Pemrog
   - "Batal" (abu-abu)
 
 #### Form Edit
-![Edit Form](images/tampilan/editminuman.png)
+![Edit Form](images/tampilan/updateminuman.png)
 - Pre-filled form dengan data existing
 - Fields sama dengan form tambah
 - Tombol "Update" untuk menyimpan perubahan
@@ -112,8 +112,8 @@ Project website Kuliner Nusantara merupakan implementasi dari mata kuliah Pemrog
 7. Interactive elements (hover effects, transitions)
 
 ## 👨‍💻 Pengembang
-- **Nama**: Faiz Maulana
-- **NIM**: 312310469
+- **Nama**: Ali Mubaroq
+- **NIM**: 312310452
 - **Kelas**: TI.23.A.5
 - **Mata Kuliah**: Pemrograman Web 1
 - **Dosen**: Eko Budiarto, S.Kom., M.M.
